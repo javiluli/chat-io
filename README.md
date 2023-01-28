@@ -32,3 +32,8 @@
   - Cuando un usuario invitado se conecta y se desconecta.
   - Cuando un usuario invitado cambia a una cuenta registrada.
   - Cuando un usuario registrado se desconecta.
+- Añadir minijuegos entre contactos-amigos agregados directos o buscar jugadores random
+  - 3 en ralla / 4 en ralla
+  - pidra-papel-tijera
+  - El ahorcado
+  - Crear rankin general y entre contactos/amigos, juegos en grupos de 3, 4 o mas.
